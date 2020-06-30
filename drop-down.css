@@ -12,6 +12,7 @@ body{
     font-family: sans-serif;
     background-repeat: no-repeat;
     height:350px;
+    overflow-x: hidden;
      
      
 }
